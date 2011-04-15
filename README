@@ -1,0 +1,11 @@
+ControlJS is a JavaScript module for making scripts load faster.
+
+Features:
+
+- downloads scripts asynchronously
+- handles both inline scripts and external scripts
+- delays script execution until after the page has rendered
+- allows for scripts to be downloaded and not executed
+- integrates with simple changes to HTML . no code changes
+- solves some document.write async use cases
+- control.js itself is loaded asynchronously
